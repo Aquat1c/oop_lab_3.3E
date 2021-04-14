@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (oop_lab_2.5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  oop_lab_3.3E.cpp
+C:\Users\Aquatic\source\repos\oop_lab_3.3E\oop_lab_3.3E\oop_lab_3.3E.cpp(13,6): warning C4101: 'result': unreferenced local variable
+  oop_lab_3.3E.vcxproj -> C:\Users\Aquatic\source\repos\oop_lab_3.3E\Debug\oop_lab_3.3E.exe
